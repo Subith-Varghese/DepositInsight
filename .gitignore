@@ -1,3 +1,7 @@
+# Ignore large model files
+artifacts/random_forest.pkl
+artifacts/random_forest_best.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
