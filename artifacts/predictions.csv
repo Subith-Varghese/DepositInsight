@@ -1,0 +1,11 @@
+age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,y,predicted_y
+56.0,housemaid,married,basic.4y,no,no,no,telephone,may,mon,261.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+57.0,services,married,high.school,unknown,no,no,telephone,may,mon,149.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+37.0,services,married,high.school,no,yes,no,telephone,may,mon,226.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+40.0,admin.,married,basic.6y,no,no,no,telephone,may,mon,151.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+56.0,services,married,high.school,no,no,yes,telephone,may,mon,307.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+45.0,services,married,basic.9y,unknown,no,no,telephone,may,mon,198.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+59.0,admin.,married,professional.course,no,no,no,telephone,may,mon,139.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+41.0,blue-collar,married,unknown,unknown,no,no,telephone,may,mon,217.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+24.0,technician,single,professional.course,no,yes,no,telephone,may,mon,380.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
+25.0,services,single,high.school,no,yes,no,telephone,may,mon,50.0,1.0,999.0,0.0,nonexistent,1.1,93.994,-36.4,4.857,5191.0,no,yes
